@@ -1,0 +1,8 @@
+# Additional requirements for PostgreSQL support
+# Install these only if you plan to use PostgreSQL instead of SQLite
+
+psycopg2-binary==2.9.9
+
+# Alternative PostgreSQL drivers (if psycopg2-binary fails):
+# asyncpg==0.29.0  # For async PostgreSQL
+# psycopg==3.1.12  # Newer psycopg3
