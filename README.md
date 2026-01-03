@@ -1,6 +1,8 @@
 <img src = "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/709/107/datas/original.png"/>
-# Cooktube - YouTube Cooking Video Organizer
 
+## Project Name
+Cooktube - YouTube Cooking Video Organizer
+## Introduction
 A full-stack application for organizing and annotating YouTube cooking videos, now with backend storage and migration capabilities.
 
 ## 🚀 Features
@@ -218,3 +220,4 @@ This project is open source and available under the MIT License.
 - Look for keys with `.backup.YYYYMMDD` suffix
 
 - Use browser dev tools to inspect localStorage data
+
